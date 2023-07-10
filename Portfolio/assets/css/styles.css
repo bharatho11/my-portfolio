@@ -554,6 +554,10 @@ img{
 }
 
 @media screen and (min-width:1024px){
+    .home_title{
+       margin-top: var(--mb-6); 
+    }
+
     .bd_grid{
         margin-left: auto;
         margin-right: auto;
