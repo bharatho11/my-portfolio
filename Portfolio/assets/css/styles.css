@@ -227,6 +227,7 @@ img{
 
 .home_img img{
     width: 100%;
+    filter: drop-shadow(50px 10px 200px #8B0AF3);
 }
 
 /* Button */
